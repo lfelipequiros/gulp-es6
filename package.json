@@ -1,0 +1,28 @@
+{
+  "name": "gulp-es6",
+  "version": "1.0.0",
+  "description": "Playgroung to use es6 with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfelipequiros/gulp-es6.git"
+  },
+  "keywords": [
+    "es6",
+    "gulp"
+  ],
+  "author": "Felipe Quiros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lfelipequiros/gulp-es6/issues"
+  },
+  "homepage": "https://github.com/lfelipequiros/gulp-es6#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
